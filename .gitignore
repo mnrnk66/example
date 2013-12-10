@@ -17,3 +17,7 @@
 
 # vendor/bundle
 vendor/bundle
+
+# uploads
+public/uploads
+
